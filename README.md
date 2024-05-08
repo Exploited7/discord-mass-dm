@@ -1,5 +1,5 @@
 # Discord Mass DM
-Free Friends Mass DM tool , with multiple threads and proxyless and avoiding ratelimits , flags , captchas . 👀
+Free Friends Mass DM tool , with multiple threads and proxyless and avoiding ratelimits , flags . 👀
 
 # Setup 
 * just download python 
